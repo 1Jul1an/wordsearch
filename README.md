@@ -35,12 +35,13 @@ the modernwordsearch.py needs (modern UI + PDF support):
 pip install customtkinter pymupdf
 ```
 
+No dependencies Version:
 
 ```bash
 python wordsearch.py
 ```
 
-No dependencies, no setup – just run.
+no setup – just run.
 
 ---
 
